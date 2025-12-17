@@ -1,2 +1,1 @@
-print("Hello Git") 
-print("Teammate code")
+print("Login Logic") 
